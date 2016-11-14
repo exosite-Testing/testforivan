@@ -1,0 +1,8 @@
+{
+  "modules": {
+    "test0": "test0.lua",
+    "test1": "test0.lua",
+    "test2": "test0.lua",
+    "test3": "test0.lua",
+  }
+}
